@@ -1,5 +1,3 @@
-/* eslint-disable no-undef */
-import { text } from "@fortawesome/fontawesome-svg-core";
 import React, { useState } from "react";
 import FormInput from "./components/FormInput";
 
